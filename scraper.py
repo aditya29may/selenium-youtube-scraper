@@ -1,1 +1,2 @@
-print('hello world')
+
+YOUTUBE_TRENDING_URL = 'https://www.youtube.com/feed/trending'                     
